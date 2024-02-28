@@ -11,4 +11,6 @@
 
 ### 📫 How to reach me
 [LinkedIn](https://www.linkedin.com/in/steve-goulden/)
-[Twitter] (https://twitter.com/SteveGoulden8)
+[Twitter](https://twitter.com/SteveGoulden8)
+
+stevenjgoulden@gmail.com
