@@ -1,3 +1,5 @@
+Hi there, I'm a crypto and equities analyst who's fascinated by the intersection of fundamental analysis and data science. I recently graduated from General Assembly's Data Science bootcamp. Check out some of my projects below... 
+
 ### 📚 Projects
 - Predicting House Prices
 - Classifying Subreddits
