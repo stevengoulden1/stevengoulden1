@@ -8,7 +8,7 @@ I recently graduated from General Assembly's Data Science bootcamp. Check out so
 - Classifying Subreddits with logistic regression
 - Digital Sommelier - using random forests to determine wine quality from chemical data
 - Hotdog or Not Hotdog - using neural nets to determine pictures of a hotdog
-- Predicting credit defaults from macro data
+- Predicting credit growth and credit card defaults from macro data
 
 ### 🛠️ Tools
 - Languages: Python, SQL, Scala
